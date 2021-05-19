@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p5vba;
+package pkg4s22p5afja;
 
 /**
  *
- * @author Daliux
+
  */
 public class Main {
 
@@ -20,3 +20,4 @@ public class Main {
     }
     
 }
+
